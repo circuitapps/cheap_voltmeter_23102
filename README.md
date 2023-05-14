@@ -24,6 +24,14 @@ If you connect J1 the other way round, you will see the digital display constant
 
 Once you get the kit working, connect it to a DC supply with a known voltage output between 0 and 30V. The chances are the digital display will read a different voltage than what you expect. If this is the case, simply use a flathead screwdriver and adjust the variable resistor (i.e., VR1) until the display shows the same voltage as the DC power supply (refer to above figure for help). After this step your kit will be calibrated and you can use it to measure DC voltages !
 
+Quick Tips
+---
+**1 -** While soldering the alligator clips, take your time and heat each clip long enough for the solder to adhere to the clip.
+
+**2 -** While trying to fit the microcontroller into the socket, bend the pins slightly inwards to achieve an easier fit without damaging the pins.
+
+**3 -** After soldering the microcontroller socket in place, cut off the excess pins on the other side of the PCB so that the digital display will fit into the holes as required.
+
 Purchase Links
 ---
 **[1 - Buy this complete project kit from Amazon][1]**
